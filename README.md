@@ -1,2 +1,2 @@
 # renty
-Scripts Documentation for Ekomana Wordpress site template
+Scripts Documentation for Renty Wordpress site template
